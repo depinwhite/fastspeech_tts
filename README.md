@@ -11,7 +11,7 @@ In order to start training the model, you need to execute the following commands
 
 3. python3 train.py
 
-The ```inference.py``` notebook shows an example of a script that can be used to get wav from text.  
+The ```inference.ipynb``` notebook shows an example of a script that can be used to get wav from text.  
 
 ### References
 [Repository](https://github.com/markovka17/dla)  
